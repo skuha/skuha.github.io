@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://skuha.github.io/PnT/sitemap.PnT.gz
